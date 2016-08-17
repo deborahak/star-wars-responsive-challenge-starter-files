@@ -1,0 +1,35 @@
+body{
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+  padding-top: 1px;
+}
+
+header{
+  background-color: #eebb44 ;
+  margin-bottom: 30px;
+}
+header h1{
+  line-height: 1;
+  margin-bottom: 0;
+}
+header h2{
+  margin-top: 5px;
+}
+
+main .row{
+  margin-bottom: 20px;
+}
+
+.card{
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.card-image{
+  width: 100%;
+}
+
+
+
+
+
